@@ -1,0 +1,16 @@
+{
+  "name": "dom-helpers",
+  "version": "1.0.0",
+  "description": "Lightweight DOM helper functions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["dom", "helpers", "browser"],
+  "author": "leeydev",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
